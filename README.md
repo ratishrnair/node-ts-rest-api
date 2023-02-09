@@ -1,1 +1,1 @@
-# node-ts-rest-api
+REST API implementation using NodeJS/TypeScript/MongoDB
